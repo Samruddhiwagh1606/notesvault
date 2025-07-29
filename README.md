@@ -95,5 +95,5 @@ Licensed under the MIT License – Free to use, modify, and distribute.
 
 ---
 
-<h3 align="center">⭐ Star this repo to support NotesVault!</h3>
+<h3 align="center">⭐ Star this repo to support NotesVault!!</h3>
 <p align="center">💬 Have suggestions? Open an <b>issue</b> or start a <b>discussion</b>.</p>
